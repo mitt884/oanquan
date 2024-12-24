@@ -43,8 +43,8 @@ public class PlayScreen extends Application {
 
     public static void main(String[] args) {
         board = new GameBoard();
-        player1 = new Player(1, "Bach", 0, false);
-        player2 = new Player(2, "Huy", 0, true);
+        player1 = new Player(1, "Nam", 0, false);
+        player2 = new Player(2, "Khoi", 0, true);
 
         launch(args);
     }
