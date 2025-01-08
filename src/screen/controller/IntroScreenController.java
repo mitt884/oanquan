@@ -54,7 +54,6 @@ public class IntroScreenController {
 
         } catch (IOException e) {
             e.printStackTrace();
-
         }
 
     }
